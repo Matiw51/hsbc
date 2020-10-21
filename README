@@ -1,0 +1,5 @@
+It's a basic REST API to which you connect using /employees/ URL. All the basic stuff is connected to the API. 
+
+As for the search engine, it is not connected to the API as I have very little experience with creating such things from scratch and I would need additional time for that.
+
+I decided to keep employees in a static list. I think it's a decent memory solution for a sample project.
